@@ -1,2 +1,2 @@
 # Computer-Network-
-i have solved computer network projects. Here are some......
+These are the solution of computer network`s lab exercise.
